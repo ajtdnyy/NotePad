@@ -12,6 +12,7 @@ JAVA SWING写的记事本
 开发工具：netbeans 7.0
 
 运行效果如下
+
 ![image](http://www.vbox.top/wp-content/uploads/2017/07/notepad1.jpg)
 
 ![image](http://www.vbox.top/wp-content/uploads/2017/07/notepad2.jpg)
